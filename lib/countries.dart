@@ -3289,7 +3289,7 @@ const List<Country> countries = [
     maxLength: 9,
   ),
   Country(
-    name: "Campione d'Italia",
+    name: "Italy",
     nameTranslations: {
       "sk": "Taliansko",
       "se": "Itália",
