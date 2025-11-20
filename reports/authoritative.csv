@@ -1,0 +1,244 @@
+code,name,dial_code,min_length,max_length
+AF,Islamic Republic of Afghanistan,93,9,9
+AX,Åland Islands,358,5,12
+AL,Republic of Albania,355,6,9
+DZ,People's Democratic Republic of Algeria,213,8,9
+AS,American Samoa,1,10,10
+AD,Principality of Andorra,376,6,9
+AO,Republic of Angola,244,9,9
+AI,Anguilla,1,10,10
+AQ,Antarctica,,0,0
+AG,Antigua and Barbuda,1,10,10
+AR,Argentine Republic,54,10,11
+AM,Republic of Armenia,374,8,8
+AW,Aruba,297,7,7
+AU,Australia,61,5,12
+AT,Republic of Austria,43,4,13
+AZ,Republic of Azerbaijan,994,9,9
+BS,Commonwealth of the Bahamas,1,10,10
+BH,Kingdom of Bahrain,973,8,8
+BD,People's Republic of Bangladesh,880,6,10
+BB,Barbados,1,10,10
+BY,Republic of Belarus,375,6,11
+BE,Kingdom of Belgium,32,8,9
+BZ,Belize,501,7,11
+BJ,Republic of Benin,229,8,10
+BM,Bermuda,1,10,10
+BT,Kingdom of Bhutan,975,7,8
+BO,Bolivia,591,8,9
+BA,Republic of Bosnia and Herzegovina,387,8,9
+BW,Republic of Botswana,267,7,10
+BV,Bouvet Island,,0,0
+BR,Federative Republic of Brazil,55,8,11
+IO,British Indian Ocean Territory,246,7,7
+BN,Brunei Darussalam,673,7,7
+BG,Republic of Bulgaria,359,6,12
+BF,Burkina Faso,226,8,8
+BI,Republic of Burundi,257,8,8
+KH,Kingdom of Cambodia,855,8,10
+CM,Republic of Cameroon,237,8,9
+CA,Canada,1,7,10
+KY,Cayman Islands,1,10,10
+CF,Central African Republic,236,8,8
+TD,Republic of Chad,235,8,8
+CL,Republic of Chile,56,9,11
+CN,People's Republic of China,86,7,12
+CX,Christmas Island,61,6,12
+CC,Cocos (Keeling) Islands,61,6,12
+CO,Republic of Colombia,57,8,11
+KM,Union of the Comoros,269,7,7
+CG,Republic of the Congo,242,9,9
+CD,"Congo, The Democratic Republic of the",243,7,10
+CK,Cook Islands,682,5,5
+CR,Republic of Costa Rica,506,8,10
+CI,Republic of Côte d'Ivoire,225,10,10
+HR,Republic of Croatia,385,7,9
+CU,Republic of Cuba,53,6,10
+CY,Republic of Cyprus,357,8,8
+CZ,Czech Republic,420,9,12
+DK,Kingdom of Denmark,45,8,8
+DJ,Republic of Djibouti,253,8,8
+DM,Commonwealth of Dominica,1,10,10
+DO,Dominican Republic,1,10,10
+EC,Republic of Ecuador,593,8,11
+EG,Arab Republic of Egypt,20,8,10
+SV,Republic of El Salvador,503,7,11
+GQ,Republic of Equatorial Guinea,240,9,9
+ER,the State of Eritrea,291,7,7
+EE,Republic of Estonia,372,7,10
+ET,Federal Democratic Republic of Ethiopia,251,9,9
+FK,Falkland Islands (Malvinas),500,5,5
+FO,Faroe Islands,298,6,6
+FJ,Republic of Fiji,679,7,11
+FI,Republic of Finland,358,5,12
+FR,French Republic,33,9,9
+GF,French Guiana,594,9,9
+PF,French Polynesia,689,6,9
+TF,French Southern Territories,,0,0
+GA,Gabonese Republic,241,7,8
+GM,Republic of the Gambia,220,7,7
+GE,Georgia,995,9,9
+DE,Federal Republic of Germany,49,4,15
+GH,Republic of Ghana,233,8,9
+GI,Gibraltar,350,8,8
+GR,Hellenic Republic,30,10,12
+GL,Greenland,299,6,6
+GD,Grenada,1,10,10
+GP,Guadeloupe,590,9,9
+GU,Guam,1,10,10
+GT,Republic of Guatemala,502,8,11
+GG,Guernsey,44,7,10
+GN,Republic of Guinea,224,8,9
+GW,Republic of Guinea-Bissau,245,7,9
+GY,Republic of Guyana,592,7,7
+HT,Republic of Haiti,509,8,8
+HM,Heard Island and McDonald Islands,,0,0
+VA,Holy See (Vatican City State),39,6,12
+HN,Republic of Honduras,504,8,11
+HK,Hong Kong Special Administrative Region of China,852,5,11
+HU,Hungary,36,8,9
+IS,Republic of Iceland,354,7,9
+IN,Republic of India,91,8,13
+ID,Republic of Indonesia,62,7,17
+IR,Iran,98,4,10
+IQ,Republic of Iraq,964,8,10
+IE,Ireland,353,7,10
+IM,Isle of Man,44,10,10
+IL,State of Israel,972,7,12
+IT,Italian Republic,39,6,12
+JM,Jamaica,1,10,10
+JP,Japan,81,8,17
+JE,Jersey,44,10,10
+JO,Hashemite Kingdom of Jordan,962,8,9
+KZ,Republic of Kazakhstan,7,10,14
+KE,Republic of Kenya,254,7,10
+KI,Republic of Kiribati,686,5,8
+KP,North Korea,850,8,10
+KR,South Korea,82,5,14
+KW,State of Kuwait,965,7,8
+KG,Kyrgyz Republic,996,9,10
+LA,Laos,856,8,10
+LV,Republic of Latvia,371,8,8
+LB,Lebanese Republic,961,7,8
+LS,Kingdom of Lesotho,266,8,8
+LR,Republic of Liberia,231,7,9
+LY,Libya,218,9,9
+LI,Principality of Liechtenstein,423,7,9
+LT,Republic of Lithuania,370,8,8
+LU,Grand Duchy of Luxembourg,352,4,11
+MO,Macao Special Administrative Region of China,853,7,8
+MK,Republic of North Macedonia,389,8,8
+MG,Republic of Madagascar,261,9,9
+MW,Republic of Malawi,265,7,9
+MY,Malaysia,60,8,10
+MV,Republic of Maldives,960,7,10
+ML,Republic of Mali,223,8,8
+MT,Republic of Malta,356,8,8
+MH,Republic of the Marshall Islands,692,7,7
+MQ,Martinique,596,9,9
+MR,Islamic Republic of Mauritania,222,8,8
+MU,Republic of Mauritius,230,7,10
+YT,Mayotte,262,9,9
+MX,United Mexican States,52,10,10
+FM,Federated States of Micronesia,691,7,7
+MD,Moldova,373,8,8
+MC,Principality of Monaco,377,8,9
+MN,Mongolia,976,8,10
+ME,Montenegro,382,8,9
+MS,Montserrat,1,10,10
+MA,Kingdom of Morocco,212,9,9
+MZ,Republic of Mozambique,258,8,9
+MM,Republic of Myanmar,95,6,10
+NA,Republic of Namibia,264,8,9
+NR,Republic of Nauru,674,7,7
+NP,Federal Democratic Republic of Nepal,977,8,11
+NL,Kingdom of the Netherlands,31,5,11
+NC,New Caledonia,687,6,6
+NZ,New Zealand,64,5,10
+NI,Republic of Nicaragua,505,8,8
+NE,Republic of the Niger,227,8,8
+NG,Federal Republic of Nigeria,234,10,14
+NU,Niue,683,4,7
+NF,Norfolk Island,672,6,6
+MP,Commonwealth of the Northern Mariana Islands,1,10,10
+NO,Kingdom of Norway,47,5,8
+OM,Sultanate of Oman,968,7,9
+PK,Islamic Republic of Pakistan,92,8,12
+PW,Republic of Palau,680,7,7
+PS,the State of Palestine,970,8,10
+PA,Republic of Panama,507,7,11
+PG,Independent State of Papua New Guinea,675,7,8
+PY,Republic of Paraguay,595,6,11
+PE,Republic of Peru,51,8,9
+PH,Republic of the Philippines,63,6,13
+PN,Pitcairn,,0,0
+PL,Republic of Poland,48,6,10
+PT,Portuguese Republic,351,9,9
+PR,Puerto Rico,1,10,10
+QA,State of Qatar,974,7,11
+RO,Romania,40,6,9
+RU,Russian Federation,7,10,14
+RW,Rwandese Republic,250,8,9
+RE,Réunion,262,9,9
+BL,Saint Barthélemy,590,9,9
+SH,"Saint Helena, Ascension and Tristan da Cunha",290,4,5
+KN,Saint Kitts and Nevis,1,10,10
+LC,Saint Lucia,1,10,10
+MF,Saint Martin (French part),590,9,9
+PM,Saint Pierre and Miquelon,508,6,9
+VC,Saint Vincent and the Grenadines,1,10,10
+WS,Independent State of Samoa,685,5,10
+SM,Republic of San Marino,378,8,10
+ST,Democratic Republic of Sao Tome and Principe,239,7,7
+SA,Kingdom of Saudi Arabia,966,9,10
+SN,Republic of Senegal,221,9,9
+RS,Republic of Serbia,381,6,12
+SC,Republic of Seychelles,248,7,7
+SL,Republic of Sierra Leone,232,8,8
+SG,Republic of Singapore,65,8,11
+SK,Slovak Republic,421,6,9
+SI,Republic of Slovenia,386,5,8
+SB,Solomon Islands,677,5,7
+SO,Federal Republic of Somalia,252,6,9
+ZA,Republic of South Africa,27,5,10
+SS,Republic of South Sudan,211,9,9
+GS,South Georgia and the South Sandwich Islands,,0,0
+ES,Kingdom of Spain,34,9,9
+LK,Democratic Socialist Republic of Sri Lanka,94,9,9
+SD,Republic of the Sudan,249,9,9
+SR,Republic of Suriname,597,6,7
+SJ,Svalbard and Jan Mayen,47,5,8
+SZ,Kingdom of Eswatini,268,8,9
+SE,Kingdom of Sweden,46,6,12
+CH,Swiss Confederation,41,9,12
+SY,Syria,963,8,9
+TW,Taiwan,886,7,11
+TJ,Republic of Tajikistan,992,9,9
+TZ,Tanzania,255,9,9
+TH,Kingdom of Thailand,66,8,13
+TL,Democratic Republic of Timor-Leste,670,7,8
+TG,Togolese Republic,228,8,8
+TK,Tokelau,690,4,7
+TO,Kingdom of Tonga,676,5,7
+TT,Republic of Trinidad and Tobago,1,10,10
+TN,Republic of Tunisia,216,8,8
+TR,Republic of Türkiye,90,7,13
+TM,Turkmenistan,993,8,8
+TC,Turks and Caicos Islands,1,10,10
+TV,Tuvalu,688,5,7
+UG,Republic of Uganda,256,9,9
+UA,Ukraine,380,9,10
+AE,United Arab Emirates,971,5,12
+GB,United Kingdom of Great Britain and Northern Ireland,44,7,10
+US,United States of America,1,10,10
+UY,Eastern Republic of Uruguay,598,4,13
+UZ,Republic of Uzbekistan,998,9,9
+VU,Republic of Vanuatu,678,5,7
+VE,Venezuela,58,10,10
+VN,Vietnam,84,7,10
+VG,British Virgin Islands,1,10,10
+VI,Virgin Islands of the United States,1,10,10
+WF,Wallis and Futuna,681,6,9
+YE,Republic of Yemen,967,7,9
+ZM,Republic of Zambia,260,9,9
+ZW,Republic of Zimbabwe,263,5,10

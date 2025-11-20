@@ -1,0 +1,244 @@
+code,name,dial_code,min_length,max_length
+AF,Afghanistan,93,9,9
+AX,Åland Islands,358,15,15
+AL,Albania,355,9,9
+DZ,Algeria,213,9,9
+AS,American Samoa,1684,7,7
+AD,Andorra,376,6,6
+AO,Angola,244,9,9
+AI,Anguilla,1264,7,7
+AQ,Antarctica,672,6,6
+AG,Antigua and Barbuda,1268,7,7
+AR,Argentina,54,12,12
+AM,Armenia,374,8,8
+AW,Aruba,297,7,7
+AU,Australia,61,9,9
+AT,Austria,43,13,13
+AZ,Azerbaijan,994,9,9
+BS,Bahamas,1242,7,7
+BH,Bahrain,973,8,8
+BD,Bangladesh,880,10,10
+BB,Barbados,1246,7,7
+BY,Belarus,375,7,11
+BE,Belgium,32,9,9
+BZ,Belize,501,7,7
+BJ,Benin,229,8,8
+BM,Bermuda,1441,7,7
+BT,Bhutan,975,8,8
+BO,"Bolivia, Plurinational State of bolivia",591,8,8
+BA,Bosnia and Herzegovina,387,9,9
+BW,Botswana,267,8,8
+BV,Bouvet Island,47,15,15
+BR,Brazil,55,11,11
+IO,British Indian Ocean Territory,246,7,7
+BN,Brunei Darussalam,673,7,7
+BG,Bulgaria,359,9,9
+BF,Burkina Faso,226,8,8
+BI,Burundi,257,8,8
+KH,Cambodia,855,9,9
+CM,Cameroon,237,9,9
+CA,Canada,1,10,10
+KY,Cayman Islands,345,7,7
+CF,Central African Republic,236,8,8
+TD,Chad,235,7,7
+CL,Chile,56,9,9
+CN,China,86,11,12
+CX,Christmas Island,61,15,15
+CC,Cocos (Keeling) Islands,61,15,15
+CO,Colombia,57,10,10
+KM,Comoros,269,7,7
+CG,Congo,242,7,7
+CD,"Congo, The Democratic Republic of the Congo",243,9,9
+CK,Cook Islands,682,5,5
+CR,Costa Rica,506,8,8
+CI,Côte d'Ivoire,225,10,10
+HR,Croatia,385,12,12
+CU,Cuba,53,8,8
+CY,Cyprus,357,8,8
+CZ,Czech Republic,420,9,9
+DK,Denmark,45,8,8
+DJ,Djibouti,253,6,6
+DM,Dominica,1767,7,7
+DO,Dominican Republic,1,10,10
+EC,Ecuador,593,8,9
+EG,Egypt,20,10,10
+SV,El Salvador,503,11,11
+GQ,Equatorial Guinea,240,6,6
+ER,Eritrea,291,7,7
+EE,Estonia,372,10,10
+ET,Ethiopia,251,9,9
+FK,Falkland Islands (Malvinas),500,5,5
+FO,Faroe Islands,298,6,6
+FJ,Fiji,679,7,7
+FI,Finland,358,12,12
+FR,France,33,9,9
+GF,French Guiana,594,15,15
+PF,French Polynesia,689,6,6
+TF,French Southern Territories,262,15,15
+GA,Gabon,241,9,9
+GM,Gambia,220,7,7
+GE,Georgia,995,8,9
+DE,Germany,49,9,13
+GH,Ghana,233,9,9
+GI,Gibraltar,350,8,8
+GR,Greece,30,10,10
+GL,Greenland,299,6,6
+GD,Grenada,1473,7,7
+GP,Guadeloupe,590,15,15
+GU,Guam,1671,7,7
+GT,Guatemala,502,8,8
+GG,Guernsey,44,6,6
+GN,Guinea,224,8,9
+GW,Guinea-Bissau,245,7,7
+GY,Guyana,592,7,7
+HT,Haiti,509,8,8
+HM,Heard Island and Mcdonald Islands,672,15,15
+VA,Holy See (Vatican City State),379,10,10
+HN,Honduras,504,8,8
+HK,Hong Kong,852,8,8
+HU,Hungary,36,9,9
+IS,Iceland,354,7,9
+IN,India,91,10,10
+ID,Indonesia,62,10,13
+IR,"Iran, Islamic Republic of Persian Gulf",98,10,10
+IQ,Iraq,964,10,10
+IE,Ireland,353,7,9
+IM,Isle of Man,44,6,6
+IL,Israel,972,9,9
+IT,Italy,39,9,10
+JM,Jamaica,1876,7,7
+JP,Japan,81,10,10
+JE,Jersey,44,6,6
+JO,Jordan,962,9,9
+KZ,Kazakhstan,7,10,10
+KE,Kenya,254,10,10
+KI,Kiribati,686,5,5
+KP,"Korea, Democratic People's Republic of Korea",850,10,10
+KR,"Korea, Republic of South Korea",82,11,11
+KW,Kuwait,965,8,8
+KG,Kyrgyzstan,996,9,9
+LA,Laos,856,10,10
+LV,Latvia,371,8,8
+LB,Lebanon,961,8,8
+LS,Lesotho,266,8,8
+LR,Liberia,231,8,8
+LY,Libyan Arab Jamahiriya,218,9,9
+LI,Liechtenstein,423,9,9
+LT,Lithuania,370,8,8
+LU,Luxembourg,352,11,11
+MO,Macao,853,8,8
+MK,Macedonia,389,8,8
+MG,Madagascar,261,10,10
+MW,Malawi,265,7,9
+MY,Malaysia,60,9,10
+MV,Maldives,960,7,7
+ML,Mali,223,8,8
+MT,Malta,356,8,8
+MH,Marshall Islands,692,7,7
+MQ,Martinique,596,15,15
+MR,Mauritania,222,8,8
+MU,Mauritius,230,7,8
+YT,Mayotte,262,9,9
+MX,Mexico,52,10,10
+FM,"Micronesia, Federated States of Micronesia",691,7,7
+MD,Moldova,373,8,8
+MC,Monaco,377,9,9
+MN,Mongolia,976,8,8
+ME,Montenegro,382,12,12
+MS,Montserrat,1664,7,7
+MA,Morocco,212,9,9
+MZ,Mozambique,258,9,9
+MM,Myanmar,95,9,9
+NA,Namibia,264,10,10
+NR,Nauru,674,7,7
+NP,Nepal,977,10,10
+NL,Netherlands,31,9,9
+NC,New Caledonia,687,6,6
+NZ,New Zealand,64,10,10
+NI,Nicaragua,505,8,8
+NE,Niger,227,8,8
+NG,Nigeria,234,10,11
+NU,Niue,683,4,4
+NF,Norfolk Island,672,15,15
+MP,Northern Mariana Islands,1670,7,7
+NO,Norway,47,8,8
+OM,Oman,968,8,8
+PK,Pakistan,92,10,10
+PW,Palau,680,7,7
+PS,"Palestinian Territory, Occupied",970,9,9
+PA,Panama,507,8,8
+PG,Papua New Guinea,675,11,11
+PY,Paraguay,595,10,10
+PE,Peru,51,9,9
+PH,Philippines,63,10,10
+PN,Pitcairn,64,10,10
+PL,Poland,48,9,9
+PT,Portugal,351,9,9
+PR,Puerto Rico,1939,15,15
+QA,Qatar,974,8,8
+RO,Romania,40,9,9
+RU,Russia,7,10,10
+RW,Rwanda,250,9,9
+RE,Reunion,262,9,9
+BL,Saint Barthelemy,590,9,9
+SH,"Saint Helena, Ascension and Tristan Da Cunha",290,4,4
+KN,Saint Kitts and Nevis,1869,7,7
+LC,Saint Lucia,1758,7,7
+MF,Saint Martin,590,9,9
+PM,Saint Pierre and Miquelon,508,6,6
+VC,Saint Vincent and the Grenadines,1784,7,7
+WS,Samoa,685,7,7
+SM,San Marino,378,10,10
+ST,Sao Tome and Principe,239,7,7
+SA,Saudi Arabia,966,9,9
+SN,Senegal,221,9,9
+RS,Serbia,381,8,12
+SC,Seychelles,248,6,6
+SL,Sierra Leone,232,8,8
+SG,Singapore,65,8,8
+SK,Slovakia,421,9,9
+SI,Slovenia,386,8,8
+SB,Solomon Islands,677,5,5
+SO,Somalia,252,8,8
+ZA,South Africa,27,9,9
+SS,South Sudan,211,9,9
+GS,South Georgia and the South Sandwich Islands,500,15,15
+ES,Spain,34,9,9
+LK,Sri Lanka,94,9,9
+SD,Sudan,249,9,9
+SR,Suriname,597,7,7
+SJ,Svalbard and Jan Mayen,47,8,8
+SZ,Eswatini,268,8,8
+SE,Sweden,46,7,13
+CH,Switzerland,41,9,12
+SY,Syrian Arab Republic,963,9,9
+TW,Taiwan,886,9,9
+TJ,Tajikistan,992,9,9
+TZ,"Tanzania, United Republic of Tanzania",255,9,9
+TH,Thailand,66,9,9
+TL,Timor-Leste,670,7,7
+TG,Togo,228,8,8
+TK,Tokelau,690,4,4
+TO,Tonga,676,7,7
+TT,Trinidad and Tobago,1868,7,7
+TN,Tunisia,216,8,8
+TR,Turkey,90,10,10
+TM,Turkmenistan,993,8,8
+TC,Turks and Caicos Islands,1649,7,7
+TV,Tuvalu,688,6,6
+UG,Uganda,256,9,9
+UA,Ukraine,380,9,9
+AE,United Arab Emirates,971,9,9
+GB,United Kingdom,44,10,10
+US,United States,1,10,10
+UY,Uruguay,598,9,9
+UZ,Uzbekistan,998,9,9
+VU,Vanuatu,678,7,7
+VE,"Venezuela, Bolivarian Republic of Venezuela",58,10,10
+VN,Vietnam,84,11,11
+VG,"Virgin Islands, British",1284,7,7
+VI,"Virgin Islands, U.S.",1340,7,7
+WF,Wallis and Futuna,681,6,6
+YE,Yemen,967,9,9
+ZM,Zambia,260,9,9
+ZW,Zimbabwe,263,9,9
